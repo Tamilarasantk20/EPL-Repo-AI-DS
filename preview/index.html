@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EPL DS — component gallery</title>
+  <link rel="stylesheet" href="../build/css/core.css" />
+  <link rel="stylesheet" href="../build/css/semantic.css" />
+  <link rel="stylesheet" href="../build/css/base.css" />
+  <style>
+    body { font-family: var(--ds-font-family-primary, sans-serif); background: var(--ds-surface-page, #fff); color: var(--ds-content-text-primary, #111); margin: 0; padding: 2rem; }
+    h1 { font-size: 1.5rem; }
+    p.sub { color: var(--ds-content-text-secondary); font-size: .875rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
+    .card { border: 1px solid var(--ds-color-border-default, #e5e5e5); border-radius: 12px; overflow: hidden; background: var(--ds-surface-card, #fff); }
+    .card h2 { font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; margin: 0; padding: .6rem .9rem; border-bottom: 1px solid var(--ds-color-border-subtle, #eee); color: var(--ds-content-text-secondary); }
+    iframe { width: 100%; height: 340px; border: 0; background: var(--ds-surface-page, #fff); }
+  </style>
+</head>
+<body>
+  <h1>EPL Design System</h1>
+  <p class="sub">Zero-install gallery. Run <code>npm run build</code> first, then open this file. Each frame is a base component rendered in the EPL style — no component code changed.</p>
+  <div class="grid" id="grid"></div>
+  <script>
+    const components = ["accordion","alert","avatar","badge","breadcrumb","button","card","checkbox","date-picker","drawer","dropdown","file-upload","header","input","list","menu","modal","navigation-menu","pagination","product-card","product-price","progress","radio","rating","switch","table","tabs","textarea","thumbnail","thumbnail-row","toast","tooltip"];
+    const grid = document.getElementById('grid');
+    for (const name of components) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = '<h2>' + name + '</h2><iframe loading="lazy" src="../components/' + name + '/' + name + '.html"></iframe>';
+      grid.appendChild(card);
+    }
+  </script>
+</body>
+</html>

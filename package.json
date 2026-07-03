@@ -1,0 +1,23 @@
+{
+  "name": "epl-ds",
+  "version": "0.1.0",
+  "description": "EPL design system — generated from Base BNTS DS v1.0.0. Do not edit the base; regenerate to update.",
+  "type": "module",
+  "scripts": {
+    "build": "node style-dictionary.config.js",
+    "preview": "echo \"Open preview/index.html after running: npm run build\"",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "style-dictionary": "^4.4.0"
+  },
+  "devDependencies": {
+    "storybook": "^8.0.0",
+    "@storybook/html-vite": "^8.0.0"
+  },
+  "bnts": {
+    "generatedFrom": "base-bnts-ds@1.0.0",
+    "brand": "EPL"
+  }
+}
