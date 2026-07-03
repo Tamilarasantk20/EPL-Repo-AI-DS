@@ -1,0 +1,15 @@
+{
+  "brand": "EPL",
+  "slug": "epl",
+  "generatedFrom": "base-bnts-ds@1.0.0",
+  "generatedAt": "2026-07-03T09:43:21.755Z",
+  "source": {
+    "tool": "figma",
+    "files": [
+      "https://github.com/Tamilarasantk20/EPL-Repo-AI-DS"
+    ],
+    "note": "Normalized design profile standing in for a Figma export. In the live Step 10 flow this is produced by extract.fromFigmaVariableDefs() over the Figma MCP's get_variable_defs output."
+  },
+  "overrides": 87,
+  "warnings": []
+}
