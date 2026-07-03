@@ -6,6 +6,7 @@
   "scripts": {
     "build": "node style-dictionary.config.js",
     "preview": "echo \"Open preview/index.html after running: npm run build\"",
+    "preview:bundle": "node scripts/build-preview.mjs",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
