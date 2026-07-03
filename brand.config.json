@@ -1,0 +1,15 @@
+{
+  "brand": "EPL",
+  "slug": "epl",
+  "generatedFrom": "base-bnts-ds@1.0.0",
+  "generatedAt": "2026-07-03T00:00:00.000Z",
+  "source": {
+    "tool": "figma",
+    "files": [
+      "https://www.figma.com/design/I2GdUXZBUMWfKtkarhOS4I/EPL-AI-DS?node-id=27-4360"
+    ],
+    "note": "Design profile extracted from the EPL Figma file via the Figma MCP get_variable_defs (node 27-4360)."
+  },
+  "overrides": 55,
+  "warnings": []
+}

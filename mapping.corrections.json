@@ -1,0 +1,5 @@
+{
+  "//": "Designer review corrections for the EPL brand. Flat map of base.parameter -> corrected value. Pins the real brand swatches (Rojo Red, Pinto) at their nearest tone on the auto-derived brand red ramp.",
+  "color.brand.400": "#fe3b1f",
+  "color.brand.800": "#6c140f"
+}

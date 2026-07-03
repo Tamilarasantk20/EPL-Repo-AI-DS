@@ -1,0 +1,419 @@
+{
+  "brand": {
+    "name": "EPL",
+    "slug": "epl"
+  },
+  "source": {
+    "tool": "figma",
+    "files": [
+      "https://www.figma.com/design/I2GdUXZBUMWfKtkarhOS4I/EPL-AI-DS?node-id=27-4360"
+    ],
+    "note": "Extracted from the EPL Figma file via the Figma MCP get_variable_defs on node 27-4360."
+  },
+  "generatedAt": "2026-07-03T00:00:00.000Z",
+  "warnings": [],
+  "mappings": [
+    {
+      "param": "color.brand.0",
+      "value": "#ffffff",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.50",
+      "value": "#fde9e6",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.100",
+      "value": "#fbd4cc",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.200",
+      "value": "#f8a999",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.300",
+      "value": "#f47d66",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.400",
+      "value": "#fe3b1f",
+      "source": "designer (corrected — Rojo Red)",
+      "confidence": "corrected",
+      "note": "real brand swatch pinned at this tone"
+    },
+    {
+      "param": "color.brand.500",
+      "value": "#ed2700",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "high",
+      "note": "the seed swatch"
+    },
+    {
+      "param": "color.brand.600",
+      "value": "#d12200",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.700",
+      "value": "#af1d00",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.800",
+      "value": "#6c140f",
+      "source": "designer (corrected — Pinto)",
+      "confidence": "corrected",
+      "note": "real brand swatch pinned at this tone"
+    },
+    {
+      "param": "color.brand.900",
+      "value": "#641000",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.950",
+      "value": "#420b00",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.brand.1000",
+      "value": "#000000",
+      "source": "Figma: color/brand (Fired Up seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.neutral.0",
+      "value": "#ffffff",
+      "source": "Figma: White",
+      "confidence": "high"
+    },
+    {
+      "param": "color.neutral.50",
+      "value": "#f8f8f8",
+      "source": "Figma: Sugar Skull White",
+      "confidence": "high"
+    },
+    {
+      "param": "color.neutral.100",
+      "value": "#efefe7",
+      "source": "Figma: Tortilla",
+      "confidence": "high"
+    },
+    {
+      "param": "color.neutral.200",
+      "value": "#d9d9d3",
+      "source": "Figma: color/neutral (interpolated)",
+      "confidence": "derived",
+      "note": "interpolated between real brand greys — confirm"
+    },
+    {
+      "param": "color.neutral.300",
+      "value": "#c2c2c0",
+      "source": "Figma: color/neutral (interpolated)",
+      "confidence": "derived",
+      "note": "interpolated between real brand greys — confirm"
+    },
+    {
+      "param": "color.neutral.400",
+      "value": "#acacac",
+      "source": "Figma: Light Grey",
+      "confidence": "high"
+    },
+    {
+      "param": "color.neutral.500",
+      "value": "#8b8b8b",
+      "source": "Figma: color/neutral (interpolated)",
+      "confidence": "derived",
+      "note": "interpolated between real brand greys — confirm"
+    },
+    {
+      "param": "color.neutral.600",
+      "value": "#696969",
+      "source": "Figma: Dark Grey",
+      "confidence": "high"
+    },
+    {
+      "param": "color.neutral.700",
+      "value": "#535353",
+      "source": "Figma: color/neutral (interpolated)",
+      "confidence": "derived",
+      "note": "interpolated between real brand greys — confirm"
+    },
+    {
+      "param": "color.neutral.800",
+      "value": "#3c3c3c",
+      "source": "Figma: color/neutral (interpolated)",
+      "confidence": "derived",
+      "note": "interpolated between real brand greys — confirm"
+    },
+    {
+      "param": "color.neutral.900",
+      "value": "#262626",
+      "source": "Figma: Charcoal",
+      "confidence": "high"
+    },
+    {
+      "param": "color.neutral.950",
+      "value": "#222323",
+      "source": "Figma: Charcoal deep",
+      "confidence": "high"
+    },
+    {
+      "param": "color.neutral.1000",
+      "value": "#000000",
+      "source": "Figma: Black",
+      "confidence": "high"
+    },
+    {
+      "param": "color.red.0",
+      "value": "#ffffff",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.50",
+      "value": "#ffebe9",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.100",
+      "value": "#ffd8d2",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.200",
+      "value": "#ffb1a5",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.300",
+      "value": "#fe8979",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.400",
+      "value": "#fe624c",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.500",
+      "value": "#fe3b1f",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "high",
+      "note": "the seed swatch"
+    },
+    {
+      "param": "color.red.600",
+      "value": "#e0341b",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.700",
+      "value": "#bc2c17",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.800",
+      "value": "#932212",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.900",
+      "value": "#6b190d",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.950",
+      "value": "#471109",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.red.1000",
+      "value": "#000000",
+      "source": "Figma: color/error (Rojo Red seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.0",
+      "value": "#ffffff",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.50",
+      "value": "#edf4f5",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.100",
+      "value": "#dbe9eb",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.200",
+      "value": "#b7d3d7",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.300",
+      "value": "#94bdc2",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.400",
+      "value": "#70a7ae",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.500",
+      "value": "#4c919a",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "high",
+      "note": "the seed swatch"
+    },
+    {
+      "param": "color.blue.600",
+      "value": "#438088",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.700",
+      "value": "#386b72",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.800",
+      "value": "#2c5459",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.900",
+      "value": "#203d41",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.950",
+      "value": "#15292b",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.blue.1000",
+      "value": "#000000",
+      "source": "Figma: color/info (Aqua seed)",
+      "confidence": "derived",
+      "note": "tinted/shaded from the seed — confirm"
+    },
+    {
+      "param": "color.green.*",
+      "value": "(inherited)",
+      "source": "—",
+      "confidence": "inherited",
+      "note": "no brand source in Figma — inherited from base"
+    },
+    {
+      "param": "color.orange.*",
+      "value": "(inherited)",
+      "source": "—",
+      "confidence": "inherited",
+      "note": "no brand source in Figma — inherited from base"
+    },
+    {
+      "param": "font.family.primary",
+      "value": "'Epilogue', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+      "source": "Figma: body font (Epilogue)",
+      "confidence": "high"
+    },
+    {
+      "param": "font.family.secondary",
+      "value": "'Barlow', sans-serif",
+      "source": "Figma: UI/label font (Barlow)",
+      "confidence": "high"
+    },
+    {
+      "param": "font.family.display",
+      "value": "'Barlow', sans-serif",
+      "source": "Figma: heading font (Barlow)",
+      "confidence": "high"
+    },
+    {
+      "param": "radius.*",
+      "value": "(inherited)",
+      "source": "—",
+      "confidence": "inherited",
+      "note": "no radius variables in Figma — inherited from base"
+    },
+    {
+      "param": "spacing.*",
+      "value": "(inherited)",
+      "source": "—",
+      "confidence": "inherited",
+      "note": "whole scale inherited from base"
+    }
+  ]
+}
