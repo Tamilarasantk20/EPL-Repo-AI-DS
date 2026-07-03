@@ -7,70 +7,34 @@
       "$description": "Sharp corners"
     },
     "2xs": {
-      "$value": "3px",
+      "$value": "2px",
       "$type": "dimension",
-      "$description": "Very subtle",
-      "$extensions": {
-        "bnts": {
-          "source": "Figma: radius 2xs",
-          "confidence": "high"
-        }
-      }
+      "$description": "Very subtle"
     },
     "xs": {
-      "$value": "5px",
+      "$value": "4px",
       "$type": "dimension",
-      "$description": "Extra small",
-      "$extensions": {
-        "bnts": {
-          "source": "Figma: radius xs",
-          "confidence": "high"
-        }
-      }
+      "$description": "Extra small"
     },
     "sm": {
-      "$value": "7px",
+      "$value": "6px",
       "$type": "dimension",
-      "$description": "Small",
-      "$extensions": {
-        "bnts": {
-          "source": "Figma: radius sm",
-          "confidence": "high"
-        }
-      }
+      "$description": "Small"
     },
     "md": {
-      "$value": "10px",
+      "$value": "8px",
       "$type": "dimension",
-      "$description": "Default",
-      "$extensions": {
-        "bnts": {
-          "source": "Figma: radius md",
-          "confidence": "high"
-        }
-      }
+      "$description": "Default"
     },
     "lg": {
-      "$value": "14px",
+      "$value": "12px",
       "$type": "dimension",
-      "$description": "Large",
-      "$extensions": {
-        "bnts": {
-          "source": "Figma: radius lg",
-          "confidence": "high"
-        }
-      }
+      "$description": "Large"
     },
     "xl": {
-      "$value": "20px",
+      "$value": "16px",
       "$type": "dimension",
-      "$description": "Extra Large",
-      "$extensions": {
-        "bnts": {
-          "source": "Figma: radius xl",
-          "confidence": "high"
-        }
-      }
+      "$description": "Extra Large"
     },
     "2xl": {
       "$value": "24px",

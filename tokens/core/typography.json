@@ -3,34 +3,34 @@
   "font": {
     "family": {
       "primary": {
-        "$value": "'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+        "$value": "'Epilogue', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
         "$type": "fontFamily",
         "$description": "Default UI font",
         "$extensions": {
           "bnts": {
-            "source": "Figma: primary font",
+            "source": "Figma: body font (Epilogue)",
             "confidence": "high"
           }
         }
       },
       "secondary": {
-        "$value": "'Poppins', sans-serif",
+        "$value": "'Barlow', sans-serif",
         "$type": "fontFamily",
         "$description": "Secondary brand font",
         "$extensions": {
           "bnts": {
-            "source": "Figma: secondary font",
+            "source": "Figma: UI/label font (Barlow)",
             "confidence": "high"
           }
         }
       },
       "display": {
-        "$value": "'Poppins', sans-serif",
+        "$value": "'Barlow', sans-serif",
         "$type": "fontFamily",
         "$description": "Marketing and display font",
         "$extensions": {
           "bnts": {
-            "source": "Figma: display font",
+            "source": "Figma: heading font (Barlow)",
             "confidence": "high"
           }
         }

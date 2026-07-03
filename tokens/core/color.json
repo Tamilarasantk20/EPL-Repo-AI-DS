@@ -8,128 +8,128 @@
         "$description": "Brand pure white",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
+            "source": "Figma: color/brand (Fired Up seed)",
             "confidence": "derived"
           }
         }
       },
       "50": {
-        "$value": "#ebe6ec",
+        "$value": "#fde9e6",
         "$type": "color",
         "$description": "Brand extra light",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
+            "source": "Figma: color/brand (Fired Up seed)",
             "confidence": "derived"
           }
         }
       },
       "100": {
-        "$value": "#efe1f2",
+        "$value": "#fbd4cc",
         "$type": "color",
         "$description": "Brand very light",
         "$extensions": {
           "bnts": {
-            "source": "designer (corrected)",
-            "confidence": "corrected"
+            "source": "Figma: color/brand (Fired Up seed)",
+            "confidence": "derived"
           }
         }
       },
       "200": {
-        "$value": "#dcbde4",
+        "$value": "#f8a999",
         "$type": "color",
         "$description": "Brand light",
         "$extensions": {
           "bnts": {
-            "source": "designer (corrected)",
-            "confidence": "corrected"
+            "source": "Figma: color/brand (Fired Up seed)",
+            "confidence": "derived"
           }
         }
       },
       "300": {
-        "$value": "#bd8bcb",
+        "$value": "#f47d66",
         "$type": "color",
         "$description": "Brand soft",
         "$extensions": {
           "bnts": {
-            "source": "designer (corrected)",
-            "confidence": "corrected"
+            "source": "Figma: color/brand (Fired Up seed)",
+            "confidence": "derived"
           }
         }
       },
       "400": {
-        "$value": "#8f4fa3",
+        "$value": "#fe3b1f",
         "$type": "color",
         "$description": "Brand medium light",
         "$extensions": {
           "bnts": {
-            "source": "designer (corrected)",
+            "source": "designer (corrected — Rojo Red)",
             "confidence": "corrected"
           }
         }
       },
       "500": {
-        "$value": "#37003c",
+        "$value": "#ed2700",
         "$type": "color",
         "$description": "Brand base tone",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
+            "source": "Figma: color/brand (Fired Up seed)",
             "confidence": "high"
           }
         }
       },
       "600": {
-        "$value": "#300035",
+        "$value": "#d12200",
         "$type": "color",
         "$description": "Brand medium dark",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
+            "source": "Figma: color/brand (Fired Up seed)",
             "confidence": "derived"
           }
         }
       },
       "700": {
-        "$value": "#29002c",
+        "$value": "#af1d00",
         "$type": "color",
         "$description": "Brand dark",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
+            "source": "Figma: color/brand (Fired Up seed)",
             "confidence": "derived"
           }
         }
       },
       "800": {
-        "$value": "#200023",
+        "$value": "#6c140f",
         "$type": "color",
         "$description": "Brand very dark",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
-            "confidence": "derived"
+            "source": "designer (corrected — Pinto)",
+            "confidence": "corrected"
           }
         }
       },
       "900": {
-        "$value": "#170019",
+        "$value": "#641000",
         "$type": "color",
         "$description": "Brand deep dark",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
+            "source": "Figma: color/brand (Fired Up seed)",
             "confidence": "derived"
           }
         }
       },
       "950": {
-        "$value": "#0f0011",
+        "$value": "#420b00",
         "$type": "color",
         "$description": "Brand near black",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
+            "source": "Figma: color/brand (Fired Up seed)",
             "confidence": "derived"
           }
         }
@@ -140,7 +140,7 @@
         "$description": "Brand pure black",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/brand (seed)",
+            "source": "Figma: color/brand (Fired Up seed)",
             "confidence": "derived"
           }
         }
@@ -153,128 +153,128 @@
         "$description": "Pure white",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 0",
+            "source": "Figma: White",
             "confidence": "high"
           }
         }
       },
       "50": {
-        "$value": "#f6f5f8",
+        "$value": "#f8f8f8",
         "$type": "color",
         "$description": "Extra light",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 50",
+            "source": "Figma: Sugar Skull White",
             "confidence": "high"
           }
         }
       },
       "100": {
-        "$value": "#ececf0",
+        "$value": "#efefe7",
         "$type": "color",
         "$description": "Very light",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 100",
+            "source": "Figma: Tortilla",
             "confidence": "high"
           }
         }
       },
       "200": {
-        "$value": "#d9d8e0",
+        "$value": "#d9d9d3",
         "$type": "color",
         "$description": "Light",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 200",
-            "confidence": "high"
+            "source": "Figma: color/neutral (interpolated)",
+            "confidence": "derived"
           }
         }
       },
       "300": {
-        "$value": "#bcbac6",
+        "$value": "#c2c2c0",
         "$type": "color",
         "$description": "Soft",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 300",
-            "confidence": "high"
+            "source": "Figma: color/neutral (interpolated)",
+            "confidence": "derived"
           }
         }
       },
       "400": {
-        "$value": "#9793a5",
+        "$value": "#acacac",
         "$type": "color",
         "$description": "Medium light",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 400",
+            "source": "Figma: Light Grey",
             "confidence": "high"
           }
         }
       },
       "500": {
-        "$value": "#726d82",
+        "$value": "#8b8b8b",
         "$type": "color",
         "$description": "Base tone",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 500",
-            "confidence": "high"
+            "source": "Figma: color/neutral (interpolated)",
+            "confidence": "derived"
           }
         }
       },
       "600": {
-        "$value": "#565165",
+        "$value": "#696969",
         "$type": "color",
         "$description": "Medium dark",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 600",
+            "source": "Figma: Dark Grey",
             "confidence": "high"
           }
         }
       },
       "700": {
-        "$value": "#3f3a4d",
+        "$value": "#535353",
         "$type": "color",
         "$description": "Dark",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 700",
-            "confidence": "high"
+            "source": "Figma: color/neutral (interpolated)",
+            "confidence": "derived"
           }
         }
       },
       "800": {
-        "$value": "#2b2736",
+        "$value": "#3c3c3c",
         "$type": "color",
         "$description": "Very dark",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 800",
-            "confidence": "high"
+            "source": "Figma: color/neutral (interpolated)",
+            "confidence": "derived"
           }
         }
       },
       "900": {
-        "$value": "#1a1722",
+        "$value": "#262626",
         "$type": "color",
         "$description": "Deep dark",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 900",
+            "source": "Figma: Charcoal",
             "confidence": "high"
           }
         }
       },
       "950": {
-        "$value": "#0e0c14",
+        "$value": "#222323",
         "$type": "color",
         "$description": "Near black",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 950",
+            "source": "Figma: Charcoal deep",
             "confidence": "high"
           }
         }
@@ -285,7 +285,7 @@
         "$description": "Pure black",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/neutral / 1000",
+            "source": "Figma: Black",
             "confidence": "high"
           }
         }
@@ -297,117 +297,117 @@
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "50": {
-        "$value": "#e6feff",
+        "$value": "#edf4f5",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "100": {
-        "$value": "#cdfdff",
+        "$value": "#dbe9eb",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "200": {
-        "$value": "#9bfbff",
+        "$value": "#b7d3d7",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "300": {
-        "$value": "#68f9ff",
+        "$value": "#94bdc2",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "400": {
-        "$value": "#36f7ff",
+        "$value": "#70a7ae",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "500": {
-        "$value": "#04f5ff",
+        "$value": "#4c919a",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "high"
           }
         }
       },
       "600": {
-        "$value": "#04d8e0",
+        "$value": "#438088",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "700": {
-        "$value": "#03b5bd",
+        "$value": "#386b72",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "800": {
-        "$value": "#028e94",
+        "$value": "#2c5459",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "900": {
-        "$value": "#02676b",
+        "$value": "#203d41",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
       },
       "950": {
-        "$value": "#014547",
+        "$value": "#15292b",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
@@ -417,7 +417,7 @@
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/info (seed)",
+            "source": "Figma: color/info (Aqua seed)",
             "confidence": "derived"
           }
         }
@@ -426,133 +426,55 @@
     "green": {
       "0": {
         "$value": "#ffffff",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$type": "color"
       },
       "50": {
-        "$value": "#e6f6ee",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#ebfbee",
+        "$type": "color"
       },
       "100": {
-        "$value": "#cceddc",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#d3f9d8",
+        "$type": "color"
       },
       "200": {
-        "$value": "#99dbb9",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#b2f2bb",
+        "$type": "color"
       },
       "300": {
-        "$value": "#66ca96",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#8ce99a",
+        "$type": "color"
       },
       "400": {
-        "$value": "#33b873",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#69db7c",
+        "$type": "color"
       },
       "500": {
-        "$value": "#00a650",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "high"
-          }
-        }
+        "$value": "#51cf66",
+        "$type": "color"
       },
       "600": {
-        "$value": "#009246",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#40c057",
+        "$type": "color"
       },
       "700": {
-        "$value": "#007b3b",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#37b24d",
+        "$type": "color"
       },
       "800": {
-        "$value": "#00602e",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#2f9e44",
+        "$type": "color"
       },
       "900": {
-        "$value": "#004622",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#2b8a3e",
+        "$type": "color"
       },
       "950": {
-        "$value": "#002e16",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#165225",
+        "$type": "color"
       },
       "1000": {
         "$value": "#000000",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/success (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$type": "color"
       }
     },
     "yellow": {
@@ -612,133 +534,55 @@
     "orange": {
       "0": {
         "$value": "#ffffff",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$type": "color"
       },
       "50": {
-        "$value": "#fff8e6",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#fff4e6",
+        "$type": "color"
       },
       "100": {
-        "$value": "#fff1cc",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#ffe8cc",
+        "$type": "color"
       },
       "200": {
-        "$value": "#ffe399",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#ffd8a8",
+        "$type": "color"
       },
       "300": {
-        "$value": "#ffd466",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#ffc078",
+        "$type": "color"
       },
       "400": {
-        "$value": "#ffc633",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#ffa94d",
+        "$type": "color"
       },
       "500": {
-        "$value": "#ffb800",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "high"
-          }
-        }
+        "$value": "#ff922b",
+        "$type": "color"
       },
       "600": {
-        "$value": "#e0a200",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#fd7e14",
+        "$type": "color"
       },
       "700": {
-        "$value": "#bd8800",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#f76707",
+        "$type": "color"
       },
       "800": {
-        "$value": "#946b00",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#e8590c",
+        "$type": "color"
       },
       "900": {
-        "$value": "#6b4d00",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#d9480f",
+        "$type": "color"
       },
       "950": {
-        "$value": "#473400",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$value": "#7d2d08",
+        "$type": "color"
       },
       "1000": {
         "$value": "#000000",
-        "$type": "color",
-        "$extensions": {
-          "bnts": {
-            "source": "Figma: color/warning (seed)",
-            "confidence": "derived"
-          }
-        }
+        "$type": "color"
       }
     },
     "red": {
@@ -747,117 +591,117 @@
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "50": {
-        "$value": "#fde6ee",
+        "$value": "#ffebe9",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "100": {
-        "$value": "#fbccdc",
+        "$value": "#ffd8d2",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "200": {
-        "$value": "#f699ba",
+        "$value": "#ffb1a5",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "300": {
-        "$value": "#f26697",
+        "$value": "#fe8979",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "400": {
-        "$value": "#ed3375",
+        "$value": "#fe624c",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "500": {
-        "$value": "#e90052",
+        "$value": "#fe3b1f",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "high"
           }
         }
       },
       "600": {
-        "$value": "#cd0048",
+        "$value": "#e0341b",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "700": {
-        "$value": "#ac003d",
+        "$value": "#bc2c17",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "800": {
-        "$value": "#870030",
+        "$value": "#932212",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "900": {
-        "$value": "#620022",
+        "$value": "#6b190d",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
       },
       "950": {
-        "$value": "#410017",
+        "$value": "#471109",
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }
@@ -867,7 +711,7 @@
         "$type": "color",
         "$extensions": {
           "bnts": {
-            "source": "Figma: color/error (seed)",
+            "source": "Figma: color/error (Rojo Red seed)",
             "confidence": "derived"
           }
         }

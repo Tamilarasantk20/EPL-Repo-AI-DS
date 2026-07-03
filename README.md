@@ -4,9 +4,14 @@ Generated from **Base BNTS DS v1.0.0** by the brand generator (playbook Step 9/1
 
 - **Base is untouched.** This repo inherits the base `semantic` tier, `base` tier,
   and every headless `component` unchanged. Only the `core` tier carries
-  EPL's values (87 overridden primitives).
+  EPL's values (55 overridden primitives: the brand red ramp seeded on
+  **Fired Up** `#ED2700`, the **Charcoal/Tortilla** neutral ramp, the **Rojo Red**
+  error ramp, the **Aqua** info ramp, and the **Barlow**/**Epilogue** fonts).
+  Success (green), warning (orange) and the radius scale have no brand source in
+  Figma and inherit the base unchanged.
 - **Source of truth is still code.** Figma reads from these tokens, not the reverse.
-- **To update:** change the EPL Figma file and re-run the generator.
+- **To update:** change the EPL Figma file, then re-run the generator
+  (`node scripts/generate-brand.mjs && npm run build`).
   Do not hand-edit `tokens/semantic` or `tokens/base` — they belong to the base.
 
 ## Build

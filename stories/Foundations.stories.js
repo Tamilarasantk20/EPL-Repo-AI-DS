@@ -1,6 +1,6 @@
 export default { title: 'Foundations/Colour' };
 
-const tones = [{"tone":"0","value":"#ffffff"},{"tone":"50","value":"#ebe6ec"},{"tone":"100","value":"#efe1f2"},{"tone":"200","value":"#dcbde4"},{"tone":"300","value":"#bd8bcb"},{"tone":"400","value":"#8f4fa3"},{"tone":"500","value":"#37003c"},{"tone":"600","value":"#300035"},{"tone":"700","value":"#29002c"},{"tone":"800","value":"#200023"},{"tone":"900","value":"#170019"},{"tone":"950","value":"#0f0011"},{"tone":"1000","value":"#000000"}];
+const tones = [{"tone":"0","value":"#ffffff"},{"tone":"50","value":"#fde9e6"},{"tone":"100","value":"#fbd4cc"},{"tone":"200","value":"#f8a999"},{"tone":"300","value":"#f47d66"},{"tone":"400","value":"#fe3b1f"},{"tone":"500","value":"#ed2700"},{"tone":"600","value":"#d12200"},{"tone":"700","value":"#af1d00"},{"tone":"800","value":"#6c140f"},{"tone":"900","value":"#641000"},{"tone":"950","value":"#420b00"},{"tone":"1000","value":"#000000"}];
 
 export const BrandRamp = () => {
   const sw = tones
